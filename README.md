@@ -1,2 +1,3 @@
-# carfinder-ai
-AI-powered vehicle search &amp; trade-in assistant
+# Car Finder AI
+
+AI-powered car search and trade-in assistant.
